@@ -13,7 +13,7 @@ logo = Fore.MAGENTA + """                ____ ___   __  .__.__
 
 username = os.getlogin()
 
-version = "1.0"
+version = "1.0-PREVIEW-BETA"
 
 def defaultmessage():
     print(logo)
