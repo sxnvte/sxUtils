@@ -1,4 +1,7 @@
 # sxUtils
+
+### Note: sxUtils is not longer maintained. I am doing something simillar: https://github.com/sxSoftwar3/sxRPTils
+
 sxUtils is a Python tool for pentesters and ethical hackers designed to increase productivity and streamline common tasks.
 
 Disclaimer: **sxUtils was made for educational purposes only. You can be arrested for using this tool for illegal purposes. The author is not responsible for any damage caused by this tool.**
